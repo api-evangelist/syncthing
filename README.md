@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Syncthing is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://syncthing.net/
+Syncthing is an open-source continuous file synchronization program that securely syncs files across multiple devices in real time. It uses TLS encryption with perfect forward secrecy, operates without central servers, and provides a web GUI for configuration. The project is maintained by the Syncthing Foundation and supported by commercial partners, offering cross‑platform support for Windows, macOS, Linux, BSD, and more.
+
+**Areas:** File Synchronization · Open Source · Cross-Platform · Encryption · Peer-to-Peer
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://syncthing.net/)
+- [Documentation](https://docs.syncthing.net/)
+- [Getting started](https://docs.syncthing.net/intro/getting-started.html)
+- [API reference](https://docs.syncthing.net/)
+- [Support](https://forum.syncthing.net/)
+- [Changelog](https://github.com/syncthing/syncthing/releases/latest)
+- [Security](https://syncthing.net/security)
+- [GitHub](https://github.com/syncthing)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/syncthing/](https://apis.io/providers/syncthing/).
